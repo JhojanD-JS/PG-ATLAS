@@ -368,7 +368,7 @@ label {
         padding: 66px 0px;
         place-items: center;
     }
-    .pricing-card.premium { /* .PREMIUM */
+    .pricing-card.premium { 
         padding: 67px 62px;
         place-items: center;
     }
@@ -395,7 +395,7 @@ label {
         height: 91px;
         width: 110px;
     }
-    .light-button { /* .ClaroBoton */
+    .light-button { 
         margin-left: 26px;
     }
     .contact-info { /* .texto4 */
@@ -458,7 +458,7 @@ label {
     .pricing-card.professional h4 { /* .transparentes h3, h4 */
         margin-left: 19px;
     }
-    .dark-button { /* .OscuroBoton */
+    .dark-button { 
         margin-top: 49px;
     }
     li {
@@ -557,13 +557,13 @@ label {
     .header-content { /* .texto1 */
         width: 160px;
     }
-    .header-content p { /* .texto1 p */
+    .header-content p { 
         width: 232px;
     }
-    .features-text { /* .texto2 */
+    .features-text { 
         font-size: 11px;
     }
-    .intro-section img { /* .semicontainer2 img */
+    .intro-section img { 
         width: 28vh;
         height: 16vh;
         margin-left: 47px;
@@ -571,22 +571,22 @@ label {
     .feature-cards { /* .tresimgs */
         padding-left: 24px;
     }
-    .intro-section p { /* .semicontainer2 p */
+    .intro-section p { 
         width: 235px;
     }
-    .reliability-image { /* .imgCompu */
+    .reliability-image { 
         width: 32vh;
         height: 18vh;
         margin-left: 58px;
     }
-    .intro-section { /* .semicontainer2 */
+    .intro-section { 
         height: 23vh;
         align-items: center;
     }
-    .reliability-section { /* .segundosemiconte2 */
+    .reliability-section { 
         padding: 176px 0px 33px 0px
     }
-    .reliability-section p { /* .segundosemiconte2 p */
+    .reliability-section p { 
         font-size: 16px;
         width: 256px;
     }
@@ -598,17 +598,17 @@ label {
         font-size: 27px;
         padding: 25px 0px;
     }
-    .light-button { /* .ClaroBoton */
+    .light-button { 
         place-items: center;
     }
-    .dark-button { /* .OscuroBoton */
+    .dark-button { 
         place-items: center;
     }
     .client-logos img { /* .logo1 img */
         height: 81px;
         width: 52px;
     }
-    .social-links { /* .logosimg */
+    .social-links { 
         display: flex;
     }
 }
